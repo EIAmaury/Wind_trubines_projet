@@ -4,7 +4,7 @@ Pour pouvoir générer l’exécutable ,on veillera à exécuter dans un premier
 make projet_1_v7_main
 ./ projet_1_v7_main
  
-L’exécution du programme renvoie un menu qui permet à l’utilisateur de choisir entre 6 fonctionnalités :
+L’exécution du programme renvoie un menu qui permet à l’utilisateur de choisir entre 6 fonctionnalités : 
  
 	1 : la production totale du parc éolien ainsi que les coûts d’intervention
 	2 : le descriptif détaillé jour par jour de la progression du vent ainsi que de la production journalière de l’ensemble des éoliennes
